@@ -1,0 +1,325 @@
+CRITICAL - 2023-12-19 07:32:41 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 07:35:32 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 07:40:17 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 5.
+ 1 APPPATH\Views\plantillas\Header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 5)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:00:36 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:02:17 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:04:39 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:05:19 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:07:26 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:11:25 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:11:32 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:11:48 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:11:52 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:11:52 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:12:46 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:22:49 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:27:51 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(12): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contactos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:30:18 --> syntax error, unexpected token "{", expecting "function" or "const"
+in APPPATH\Controllers\contactos.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:33:28 --> syntax error, unexpected token "echo", expecting "function" or "const"
+in APPPATH\Controllers\contactos.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:34:03 --> syntax error, unexpected token "{", expecting "function" or "const"
+in APPPATH\Controllers\contactos.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:34:15 --> Undefined property: App\Controllers\contactos::$load
+in APPPATH\Controllers\contactos.php on line 9.
+ 1 APPPATH\Controllers\contactos.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\contactos::$load', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\contactos.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:36:17 --> Undefined property: App\Controllers\contactos::$load
+in APPPATH\Controllers\contactos.php on line 9.
+ 1 APPPATH\Controllers\contactos.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\contactos::$load', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\contactos.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:36:44 --> Undefined property: App\Controllers\contactos::$load
+in APPPATH\Controllers\contactos.php on line 9.
+ 1 APPPATH\Controllers\contactos.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\contactos::$load', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\contactos.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:36:46 --> Undefined property: App\Controllers\contactos::$load
+in APPPATH\Controllers\contactos.php on line 9.
+ 1 APPPATH\Controllers\contactos.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\contactos::$load', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\contactos.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:37:58 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(10): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:39:49 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:40:24 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:40:29 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:44:13 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 08:45:20 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\Header.php on line 4.
+ 1 APPPATH\Views\plantillas\Header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Views\\plantillas\\Header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('plantillas/Header', [], true)
+ 5 APPPATH\Controllers\contactos.php(13): view('plantillas/Header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\contactos->Index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 22:26:37 --> Unmatched '}'
+in APPPATH\Controllers\Home.php on line 22.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 22:26:42 --> Unmatched '}'
+in APPPATH\Controllers\Home.php on line 22.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-19 22:47:16 --> Class "Controller" not found
+in APPPATH\Controllers\Home.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\carrito_de_compras\\codeigniter4_act7\\app\\Controllers\\Home.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

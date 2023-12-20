@@ -16,7 +16,10 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'http://localhost:8080/';
+    
+     public $baseURL = 'http://localhost/carrito_de_compras/codeigniter4_act7/';
+
+
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
@@ -32,6 +35,7 @@ class App extends BaseConfig
      */
     public array $allowedHostnames = [];
 
+
     /**
      * --------------------------------------------------------------------------
      * Index File
@@ -41,7 +45,7 @@ class App extends BaseConfig
      * something else. If you are using mod_rewrite to remove the page set this
      * variable so that it is blank.
      */
-    public string $indexPage = 'index.php';
+    public string $indexPage = '';
 
     /**
      * --------------------------------------------------------------------------
@@ -174,5 +178,6 @@ class App extends BaseConfig
      * @see http://www.html5rocks.com/en/tutorials/security/content-security-policy/
      * @see http://www.w3.org/TR/CSP/
      */
-    public bool $CSPEnabled = false;
+  
+     public bool $CSPEnabled = false;
 }

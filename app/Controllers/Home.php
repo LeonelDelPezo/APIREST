@@ -2,32 +2,21 @@
 
 namespace App\Controllers;
 
-class Home extends BaseController
+use CodeIgniter\Controller;
+
+class Home extends Controller
 {
-    public function index(): string
-    {
-        return view('welcome_message');
-    }
-    
-
-  
-    public function testprueba1()
-    {
-
-        $variable = array(
-
-        "Usuario" => "Auron",
-        "Apellidos" => "Del Pezo",
-        "Ciudad" => "Santa Elena",
-        "Direccion" => "Montañita",
-        "Carrera" => "Tics",
-        "Semestre" => "6",
-        "Telefono" => "0000000000" 
-
-        );
-    return $this->response->setJSON($variable);
-    
-
-    }
-    
+          
+            public function index(){
+      
+                $data['titulo'] = 'elegir compras';
+       
+                echo view('plantillas/Header', $data);// Cargar la plantilla del encabezado
+       
+               // Cargar la vista específica para esta acción
+               echo view('Home/index'); // Cargar la vista específica para esta acción
+       
+               // Cargar la vista del pie de página
+               echo view('plantillas/Footer');// Cargar la plantilla del pie de página
+            }
 }
